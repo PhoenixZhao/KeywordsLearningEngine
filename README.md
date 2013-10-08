@@ -4,4 +4,4 @@ This is one part of Opinion Mining System, which was complished by three student
 
 Based on statistic methods and using some basic ontologies and annotated data, the KLE caculated the polaries and generate domain-specific lexicons.
 
-For example, in general, the word high carris postivie polarity. However, in the cameral market, when people say the price is high, they usually pose negative opinion on this product. Namely, in the domain of cameral, the word high carries negative polarity.
+For example, in general, the word high carries postivie polarity. However, in the cameral market, when people say the price is high, they usually pose negative opinion on this product. Namely, in the domain of cameral, the word high carries negative polarity.
